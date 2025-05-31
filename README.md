@@ -73,6 +73,6 @@ The goal: Identify common compliance gaps and propose actionable remediation in 
 
 ## 📖 Related Blog Post
 
-📚 [Read the full Medium article here](https://medium.com/@sophiamitchell/cloud-compliance-gap-analysis-nist-csf-aws)
+📚 [Read the full Medium article here](https://medium.com/@sjmitchell1920/cloud-compliance-gap-analysis-identifying-risks-in-aws-using-nist-csf-88735f5b130c)
 
 ---
