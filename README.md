@@ -40,17 +40,17 @@ The goal: Identify common compliance gaps and propose actionable remediation in 
 | `Policies/` | Draft policy on AWS data classification and governance |
 | `Executive-Summary/` | 1-page remediation slide deck for leadership |
 | `Screenshots/` | Mock AWS console screenshot (IAM, logging, S3) |
-| `Visuals/` | Medium blog header image and social banner |
+
 
 ---
 
 ## 📄 Key Files
 
-📘 [Cloud_Compliance_Gap_Analysis.xlsx](./Gap-Analysis/Cloud_Compliance_Gap_Analysis.xlsx) 
-📄 [AWS_Cloud_Compliance_Memo.pdf](./Business-Summary/AWS_Cloud_Compliance_Memo.pdf) 
-🛡️ [Cloud_Data_Classification_Policy.docx](./Policies/Cloud_Data_Classification_Policy.docx) 
-🖥️ [Compliance_Remediation_Slide.pdf](./Executive-Summary/Compliance_Remediation_Slide.pdf) 
-📸 [Mock_AWS_Environment_Overview.png](./Screenshots/Mock_AWS_Environment_Overview.png)
+📘 [Cloud_Compliance_Gap_Analysis](https://github.com/sososimple-cmd/Grc-Cloud-Compliance-Analysis/tree/main/Gap-Analysis) 
+📄 [AWS_Cloud_Compliance_Memo](https://github.com/sososimple-cmd/Grc-Cloud-Compliance-Analysis/tree/main/Business-Summary) 
+🛡️ [Cloud_Data_Classification_Policy](https://github.com/sososimple-cmd/Grc-Cloud-Compliance-Analysis/tree/main/Policies) 
+🖥️ [Compliance_Remediation_Slide](https://github.com/sososimple-cmd/Grc-Cloud-Compliance-Analysis/tree/main/Executive-Summary) 
+📸 [Mock_AWS_Environment_Overview](https://github.com/sososimple-cmd/Grc-Cloud-Compliance-Analysis/tree/main/Screenshots)
 
 ---
 
@@ -66,8 +66,8 @@ The goal: Identify common compliance gaps and propose actionable remediation in 
 
 ## 💡 Insights
 
-> “MFA isn’t optional—compliance depends on it.” 
-> This project taught me how **small oversights create massive risk** and how to connect technical issues with business impact.
+ “MFA isn’t optional—compliance depends on it.” 
+ This project taught me how **small oversights create massive risk** and how to connect technical issues with business impact.
 
 ---
 
